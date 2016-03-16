@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Medusa Crush Recordings]]></title>
+        <description><![CDATA[Medusa Crush Recordings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 02:15:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing, testing... the Intro.]]></title>
+            <description><![CDATA[<article><h1>Testing, testing... the Intro.</h1><p>Three years in and running, MCR now has the humble beginnings of it's own webspace, it's own lil' niche of the internet.</p></article>]]></description>
+            <link>undefinedtesting-testing-the-intro/index.html</link>
+            <guid isPermaLink="false">5ca5e809-05fe-4cc0-a909-6f82281a6086</guid>
+            <pubDate>Wed, 16 Mar 2016 02:15:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
