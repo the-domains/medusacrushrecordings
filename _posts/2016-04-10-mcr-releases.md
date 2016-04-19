@@ -5,19 +5,21 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Pretty self-explanatory - all official MCR and joint/related releases
-datePublished: '2016-04-10T22:57:27.361Z'
-dateModified: '2016-04-10T22:57:06.630Z'
+description: Pyres - Year Of Sleep
+datePublished: '2016-04-19T01:07:45.034Z'
+dateModified: '2016-04-19T01:07:13.767Z'
 title: M.C.R. RELEASES
-author: []
+author:
+  - name: Mat S.
+    url: 'https://medusacrushrecordings.bandcamp.com'
+sourcePath: _posts/2016-04-10-mcr-releases.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-10-mcr-releases.md
-published: true
 url: mcr-releases/index.html
 _type: Article
 
@@ -44,6 +46,9 @@ Side B
 2\. The Anchorite
 
 3\. The Everbearing
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1436535820/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![LWFDIHH/Uroboros Split 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77cc9718-2fea-486d-bcb1-db0938bd390c.jpg)
 ![Split2014.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dc3ec2-01c3-42b4-84f1-e38cc5871e8f.jpg)
 ![Split2014.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae082bd9-85f6-4671-81cb-2268708fe226.jpg)
@@ -65,6 +70,9 @@ Side B
 2\. Uroboros - Goetia
 
 3\. Uroboros - Arcano Devorador
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3217859500/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![ZEX - Ragnarock Session](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c90653e-cc42-40a8-8718-5088e8c1d637.jpg)
 ![RS.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a1e6b8c-f55c-426c-9776-82a2cddbb42f.jpg)
 ![RS.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/211a4dff-fd31-4a72-8321-d6101906b3db.jpg)
