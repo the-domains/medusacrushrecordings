@@ -3,23 +3,18 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Pyres - Year Of Sleep
-datePublished: '2016-04-19T01:07:45.034Z'
-dateModified: '2016-04-19T01:07:13.767Z'
+description: Ltd. cassette
+datePublished: '2016-06-25T18:32:19.414Z'
+dateModified: '2016-06-25T18:31:35.206Z'
 title: M.C.R. RELEASES
 author:
   - name: Mat S.
     url: 'https://medusacrushrecordings.bandcamp.com'
 sourcePath: _posts/2016-04-10-mcr-releases.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: mcr-releases/index.html
 _type: Article
 
@@ -92,6 +87,9 @@ Side B
 6\. We're Rebels
 
 \* same program on both Side A and B
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3555974173/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Keeper/Sea Bastard Split LP](https://the-grid-user-content.s3-us-west-2.amazonaws.com/054a144a-63af-45ea-ace2-2d4259ef9ffb.jpg)
 ![K/SB.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37193ba3-5605-4218-800b-4fa1197e1680.jpg)
 
@@ -100,6 +98,9 @@ Side B
 Keeper - 777
 
 Sea Bastard - Astral Rebirth
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2194577553/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Goryl - TFOW/TFOEW](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fb6c3c2-9eaf-4008-8594-629ab5001ed5.jpg)
 ![TFOW/TFOEW.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18935881-daa2-48d9-98d9-d506bb16fd98.jpg)
 ![TFOW/TFOEW.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de82487a-1035-4fd5-bd28-136d41b2989d.jpg)
@@ -135,6 +136,9 @@ The Father Of Evil Witches -
 5\. In The Style Of Witches
 
 6\. The Shaman's Speech (Bonus Track)
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3418195931/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Twingiant - Devil Down](https://the-grid-user-content.s3-us-west-2.amazonaws.com/824b423d-81a8-4c2f-bf5e-e0eede2dcc2a.jpg)
 ![TG-DD.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad48ac0f-7a83-437b-a988-87b938d35bea.jpg)
 ![TG-DD.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97184320-c6cc-431a-9214-dd44bc319a2f.jpg)
@@ -158,6 +162,9 @@ _Side B_
 2\. Under A Blood Moon
 
 3\. Devil Down
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3493211767/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Lightsabres - Demons](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10306981-7d6a-4ffb-a226-f6c456fbdea9.jpg)
 ![L-D.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88d04b8-fc7c-4179-96ba-1c030110a369.jpg)
 ![L-D.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4828ae96-a68a-451f-8f6c-1fe023f57565.jpg)
@@ -187,6 +194,9 @@ Side B
 4\. Red Light
 
 5\. Demons
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1489469924/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Possessor - Stay Dead](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2586cfe-c66b-4346-ac3e-2c7072c17595.jpg)
 ![P-SD.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5eb4993-3933-42b6-9684-7db7aeaeb00a.jpg)
 ![P-SD.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5064738c-11fd-4b38-8a54-d449639a2639.jpg)
@@ -204,6 +214,9 @@ Side B
 1\. Cobwebs
 
 2\. Lights Out/Crypt Of The Sorcerer
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=271778584/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Outre - Ghost Chants](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aefd25d6-1685-41b2-b01b-936dd34a7e38.jpg)
 ![O-GC.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ac6594c-451e-4397-afa5-3c7feb2b346d.jpg)
 ![O-GC.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c364cc11-5881-4cc8-8e30-8a48922ac955.jpg)
@@ -227,6 +240,9 @@ Side B
 6\. Chant VI - Vengeance
 
 7\. Chant VII - Arrival
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=32668147/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Lightsabres - Beheaded](https://the-grid-user-content.s3-us-west-2.amazonaws.com/940bf3a0-8013-4cee-9182-6fe0340c3840.jpg)
 ![L-B.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d9ded0a-93e8-4d9f-ae38-362172765eb1.jpg)
 ![L-B.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ce0fd79-8b4d-4448-949a-117b90383be3.jpg)
@@ -258,6 +274,9 @@ Side B
 5\. Kingdom Come
 
 6\. Left Turn
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3323590153/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Sealclubber - Stoical](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9677c2a2-5817-44c0-8f6a-61c68de2954c.jpg)
 ![S-S.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f74ea3d5-489d-43b6-a48f-3f0e7df07076.jpg)
 ![S-S.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db1f7969-8979-49bb-b0b9-a6a697066c8d.jpg)
@@ -275,6 +294,9 @@ Side B
 5\. Vows Of Silence
 
 6\. I Only Desire The Things That Will Destroy Me In The End
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=327140365/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
 ![Ommadon - Ommadon](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46ae5eb6-1488-457f-95e3-46aabbcb951a.jpg)
 ![O-O.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/149902d5-adb2-4507-a38b-d639289f3e64.jpg)
 ![O-O.3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/927e1570-17b2-4b97-a228-4ea4984b1955.jpg)
