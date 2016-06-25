@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Ltd. cassette
-datePublished: '2016-06-25T19:56:55.428Z'
-dateModified: '2016-06-25T19:55:36.336Z'
+datePublished: '2016-06-25T20:06:21.175Z'
+dateModified: '2016-06-25T20:05:19.830Z'
 title: M.C.R. RELEASES
 author:
   - name: Mat S.
@@ -306,3 +306,7 @@ Side B
 Side A - Pt. 1 'VI'
 
 Side B - Pt. 2 'VI'
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2365188152/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+
+====================================================
