@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Ltd. cassette
-datePublished: '2016-06-25T18:32:19.414Z'
-dateModified: '2016-06-25T18:31:35.206Z'
+datePublished: '2016-06-25T19:56:55.428Z'
+dateModified: '2016-06-25T19:55:36.336Z'
 title: M.C.R. RELEASES
 author:
   - name: Mat S.
@@ -215,7 +215,7 @@ Side B
 
 2\. Lights Out/Crypt Of The Sorcerer
 
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=271778584/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=271778584/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/transparent=true/" style=""></iframe>
 
 ![Outre - Ghost Chants](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aefd25d6-1685-41b2-b01b-936dd34a7e38.jpg)
 ![O-GC.2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ac6594c-451e-4397-afa5-3c7feb2b346d.jpg)
